@@ -98,19 +98,19 @@
     <div class="card">
         <i class="fas fa-eye"></i>
         <h5>View Exam Venue</h5>
-        <a href="viewexamvenue.jsp" class="btn btn-purple mt-2">Go to View Exam Venue</a>
+        <a href="viewvenue.jsp" class="btn btn-purple mt-2">Go to View Exam Venue</a>
     </div>
 
     <div class="card">
         <i class="fas fa-chair"></i>
         <h5>View Seat Allocation</h5>
-        <a href="viewseatallocation.jsp" class="btn btn-purple mt-2">Go to View Seat Allocation</a>
+        <a href="selectVenueRoom.jsp" class="btn btn-purple mt-2">Go to View Seat Allocation</a>
     </div>
 
     <div class="card">
         <i class="fas fa-trash"></i>
         <h5>Remove Exam Venue</h5>
-        <a href="removeexamvenue.jsp" class="btn btn-purple mt-2">Go to Remove Exam Venue</a>
+        <a href="removeVenue.jsp" class="btn btn-purple mt-2">Go to Remove Exam Venue</a>
     </div>
 </div>
 

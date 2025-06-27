@@ -80,21 +80,21 @@
             <div class="card">
                 <i class="fas fa-tasks"></i>
                 <h5>Allocate & Deallocate</h5>
-                <a href="allocateDeallocate.jsp" class="btn btn-purple mt-2">Go to Allocate & Deallocate</a>
+                <a href="selectDeptSem.jsp" class="btn btn-purple mt-2">Go to Allocate & Deallocate</a>
             </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card">
                 <i class="fas fa-eye"></i>
                 <h5>View Timetable</h5>
-                <a href="viewTimetable.jsp" class="btn btn-purple mt-2">Go to View Timetable</a>
+                <a href="examOptions.jsp" class="btn btn-purple mt-2">Go to View Timetable</a>
             </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card">
                 <i class="fas fa-trash-alt"></i>
                 <h5>Remove Timetable</h5>
-                <a href="removeTimetable.jsp" class="btn btn-purple mt-2">Go to Remove Timetable</a>
+                <a href="selectDeptSemForRemoveTT.jsp" class="btn btn-purple mt-2">Go to Remove Timetable</a>
             </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-3">
